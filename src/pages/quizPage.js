@@ -19,8 +19,8 @@ export function loadQuizPage(main) {
 
   let currentIndex = loadIndex();
 
-  const questionText = document.getElementById("questionText");
-  const answerText = document.getElementById("answerText");
+  const questionText = document.getElementById("question-text");
+  const answerText = document.getElementById("answer-text");
   const toggleAnswerBtn = document.getElementById("toggleAnswerBtn");
   const prevBtn = document.getElementById("prevBtn");
   const nextBtn = document.getElementById("nextBtn");
