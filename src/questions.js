@@ -1,10 +1,10 @@
 export const questions = [
   {
-    question: "Hvað er höfuðborg New York?",
+    question: "Hver er höfuðborg New York?",
     answer: "Albany",
   },
   {
-    question: "Hvaða ár kom fyrsti iPhone út??",
+    question: "Hvaða ár kom fyrsti iPhone út?",
     answer: "2007",
   },
   {
@@ -24,7 +24,7 @@ export const questions = [
     answer: "Í Páfagarði",
   },
   {
-    question: "Frelsisstyttan var gjöf frá hvaða þjóð??",
+    question: "Frelsisstyttan var gjöf frá hvaða þjóð?",
     answer: "Frakkland",
   },
   {
@@ -36,7 +36,7 @@ export const questions = [
     answer: "Hyper Transfer Protocol Secure",
   },
   {
-    question: "Bandaríkin hæsta fjölda enskumælandi íbúa í heiminum. Hvaða þjóð er í öðru sæti?",
+    question: "Bandaríkin hefur hæsta fjölda enskumælandi íbúa í heiminum. Hvaða þjóð er í öðru sæti?",
     answer: "Indland",
   }
 ];
