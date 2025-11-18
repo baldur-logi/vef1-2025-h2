@@ -2,11 +2,10 @@ import { loadHomePage } from "./pages/home.js";
 import { loadQuizPage } from "./pages/quizPage.js";
 
 export function router() {
-  const page = window.location.hash.replace("#/", "") || "home";
-
   const main = document.getElementById("site-main");
+  const hash = window.location.hash;
 
-  if (page === "quiz") {
+  if (hash === "#quiz") {
     loadQuizPage(main);
   } else {
     loadHomePage(main);

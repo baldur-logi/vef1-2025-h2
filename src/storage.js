@@ -1,9 +1,11 @@
-// wip
+const KEY = "pubquiz-current-index";
 
 export function saveIndex(i) {
-  localStorage.setItem("currentQuestion", i);
+    localStorage.setItem(KEY, JSON.stringify(i));
 }
 
 export function loadIndex() {
-  return Number(localStorage.getItem("currentQuestion"));
+    const stored = localStorage.getItem(KEY);
+    if (stored === null) return 0;
+    return parseInt(stored, 10);
 }

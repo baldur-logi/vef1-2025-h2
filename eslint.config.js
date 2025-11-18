@@ -6,9 +6,14 @@ export default [
     files: ["src/**/*.js"],
     languageOptions: {
       ecmaVersion: "latest",
-      sourceType: "module"
+      sourceType: "module",
+      globals: {
+        document: "readonly",
+        window: "readonly",
+        localStorage: "readonly",
+      },
     },
     rules: {
-    }
-  }
+    },
+  },
 ];

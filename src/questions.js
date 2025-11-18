@@ -18,5 +18,25 @@ export const questions = [
   {
     question: "Hvað er stærsta dýr í sögu jarðarinnar?",
     answer: "Steypireyður",
+  },
+  {
+    question: "Hvar á páfinn heima?",
+    answer: "Í Páfagarði",
+  },
+  {
+    question: "Frelsisstyttan var gjöf frá hvaða þjóð??",
+    answer: "Frakkland",
+  },
+  {
+    question: "Hvaða pláneta snýst í öfuga átt um möndul sinn miðað við hinar pláneturnar?",
+    answer: "Venus",
+  },
+  {
+    question: "Fyrir hvað stendur https í samhengi vefvafra?",
+    answer: "Hyper Transfer Protocol Secure",
+  },
+  {
+    question: "Bandaríkin hæsta fjölda enskumælandi íbúa í heiminum. Hvaða þjóð er í öðru sæti?",
+    answer: "Indland",
   }
 ];

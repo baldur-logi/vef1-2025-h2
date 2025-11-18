@@ -1,5 +1,6 @@
 export function loadFooter() {
-  document.getElementById("site-footer").innerHTML = `
-    <p>Útbúið af Baldri Loga</p>
+  const footer = document.getElementById("site-footer");
+  footer.innerHTML = `
+    <p>Hópverkefni 2 eftir Baldur Loga</p>
   `;
 }
