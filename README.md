@@ -45,7 +45,7 @@ Allt efni er búið til og sýnt með JavaScript við keyrslu.
 
 - Birta spurningu og svar eitt í einu
 
-- Hægt að fara á næstu og fyrri spurningu hnöppum á síðu.
+- Hægt að fara á næstu og fyrri spurningu með hnöppum á síðu.
 
 ## Aukaverkefni (önnur virkni):
 
