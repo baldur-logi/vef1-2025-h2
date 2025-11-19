@@ -45,13 +45,11 @@ Allt efni er búið til og sýnt með JavaScript við keyrslu.
 
 - Birta spurningu og svar eitt í einu
 
-- Hægt að fara á næstu og fyrri spurningu með takkum
-
-- Geyma núverandi spurningu í localStorage svo þegar síðuna er endurhlaðið birtist sama spurning
+- Hægt að fara á næstu og fyrri spurningu hnöppum á síðu.
 
 ## Aukaverkefni (önnur virkni):
 
-Fullscreen birting með lyklaborði
+Fullscreen birting með lyklaborði:
 
 - F fer í eða úr fullscreen.
 
